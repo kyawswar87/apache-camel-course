@@ -1,6 +1,7 @@
+
 Camel Java Router Project
 =========================
-
+This is demo project for youtube course https://www.youtube.com/playlist?list=PLHGmTu6vC-WZjMh3wUYNJ918p2ZfyHXHR
 === How to build
 
 To build this project use
